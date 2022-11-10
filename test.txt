@@ -1,0 +1,20 @@
+
+
+this is linux vim sessions
+
+linux commands
+
+cd 
+mkdir
+cat ls
+vim 
+
+app
+
+apple
+
+
+append
+
+
+
